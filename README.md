@@ -139,7 +139,7 @@ The wrong way to use Git...
 Read [Section 1.1 Getting Started - About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) from [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub.
 
 ### Create and Clone Repo
-In this class, we’ll use private repositories held under a GitHub organization. For this lab, you should visit this page to create and obtain access to a private repository containing the starter code for the lab.
+In this class, we’ll use private repositories held under a GitHub organization. For this lab, you should visit [this page](https://classroom.github.com/a/lZB_zo4p) to create and obtain access to a private repository containing the starter code for the lab.
 
 After the repository (repo) is created, you should clone your repo in your `~/cosc208/lab01` folder on the Linux servers. If you have never cloned a git repository before, then read [Cloning an Existing Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_cloning).
 
